@@ -1,0 +1,27 @@
+# TLDs known to have a high probability of being spammers
+
+/\.bid$/i
+/\.club$/i
+/\.date$/i
+/\.download$/i
+/\.faith$/i
+/\.fun$/i
+/\.host$/i
+/\.icu$/i
+/\.kim$/i
+/\.loan$/i
+/\.online$/i
+/\.pet$/i
+/\.pro$/i
+/\.red$/i
+/\.review$/i
+/\.site$/i
+/\.space$/i
+/\.stream$/i
+/\.top$/i
+/\.trade$/i
+/\.vip$/i
+/\.website$/i
+/\.win$/i
+/\.world$/i
+/\.xyz$/i
