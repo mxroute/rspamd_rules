@@ -10,6 +10,7 @@
 /\.icu$/i
 /\.kim$/i
 /\.loan$/i
+/\.monster$/i
 /\.online$/i
 /\.pet$/i
 /\.pro$/i
