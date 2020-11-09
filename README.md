@@ -1,17 +1,17 @@
 # rspamd_rules
 
-/lists/
+/lists/  
 body-spam.map = Text identified in email body that is known to be spam  
-subject-spam.map = Text identified in email subject that is known to be spam
+subject-spam.map = Text identified in email subject that is known to be spam  
 tlds.txt = TLDs with high probability of being spam
 
-/local.d/
-force_actions.conf = Override actions
-multimap.conf = Definitions for maps we use (See maps: https://rspamd.com/doc/modules/multimap.html )
-mx_check.conf = Checking if sender has valid MX records
-neural.conf = Enabling rspamd neural learning
+/local.d/  
+force_actions.conf = Override actions  
+multimap.conf = Definitions for maps we use (See maps: https://rspamd.com/doc/modules/multimap.html )  
+mx_check.conf = Checking if sender has valid MX records  
+neural.conf = Enabling rspamd neural learning  
 redis.conf = Defining location of redis server
 
-/override.d/
-actions.conf = Default actions
+/override.d/  
+actions.conf = Default actions  
 metrics.conf = Defining or overriding scores. If we make our own rules we define their scores here. If we find a rule needs to have it's score increased or decreased, we re-define it here.
