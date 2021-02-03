@@ -26,3 +26,5 @@
 /\.win$/i
 /\.world$/i
 /\.xyz$/i
+/\.casa$/i
+/\.cam$/i
