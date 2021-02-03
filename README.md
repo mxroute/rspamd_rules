@@ -4,6 +4,7 @@
 body-spam.map = Text identified in email body that is known to be spam  
 subject-spam.map = Text identified in email subject that is known to be spam  
 tlds.txt = TLDs with high probability of being spam
+blacklisted-sender-strings.map = Strings in "From" header that should have zero false positives
 
 /local.d/  
 force_actions.conf = Override actions  
