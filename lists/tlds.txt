@@ -28,3 +28,4 @@
 /\.xyz$/i
 /\.casa$/i
 /\.cam$/i
+/\.cyou$/i
