@@ -21,3 +21,4 @@
 /(SEO-Friendly|Looking for a Web Development Company)/i
 /This is to inform you of a debt to our company/i
 /emailserver-[0-9][a-z][0-9][0-9][0-9]\.appspot\.com/i
+/(FaceAPI|hirak.cc)/i
