@@ -5,7 +5,7 @@ body-spam.map = Text identified in email body that is known to be spam
 subject-spam.map = Text identified in email subject that is known to be spam  
 tlds.txt = TLDs with high probability of being spam  
 blacklisted-sender-strings.map = Strings in "From" header that should have zero false positives  
-mxcheck_exclude.inc = Whitelisted domains that do not require MX records to pass our spam filter
+mxcheck_exclude.inc = Whitelisted domains that do not require MX records to pass our spam filter (their business domain and sending domain likely do not match)
 
 /local.d/  
 force_actions.conf = Override actions  
