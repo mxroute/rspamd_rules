@@ -30,3 +30,5 @@
 /\.cam$/i
 /\.cyou$/i
 /\.today$/i
+/\.digital$/i
+/\.work$/i
