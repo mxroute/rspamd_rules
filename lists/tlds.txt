@@ -32,3 +32,4 @@
 /\.today$/i
 /\.digital$/i
 /\.work$/i
+/\.bar$/i
