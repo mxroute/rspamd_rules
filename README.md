@@ -1,5 +1,7 @@
 # rspamd_rules
 
+When making edits to lists (maps), please follow the current syntax used, and avoid regex. The current method of capturing strings for each map is being taken and converted to SpamAssassin rules for our older servers automatically. This relies on continued consistency, for now. Adding new maps, however, may be appropriate if regex or more complex strings are needed.
+
 /lists/  
 body-spam.map = Text identified in email body that is known to be spam  
 subject-spam.map = Text identified in email subject that is known to be spam  
