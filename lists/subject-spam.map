@@ -1,3 +1,4 @@
+/(You have a new private message|Have you won a prize in our|wants to add you as a friend)/i
 /Waiting for the payment/i
 /(Home Warranty Plans|Free Home Protection|Home Protection Plan|Covered Home Repairs)/i
 /Is your website optimized/i
