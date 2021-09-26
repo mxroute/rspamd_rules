@@ -79,7 +79,7 @@
 /(blassflustered|Your email account is currently undergoing an annual upgrade|To avoid account shut down Please verify your email)/i
 /(We are an IT company offering|web developer who builds amazing looking|Please find the company forms for change)/i
 /(We recently detected an unusual activity|not the only one here who's not married)/i
-/prestashop.com/i
+/(amoCRM|prestashop.com)/i
 /(laboratoriumpanidomu.pl|cartsguru|physique57|maisonstandards|Pura Vida Clothes|puravidaclothes)/i
 /(heise.de|dnevnik.hr|eporner.com|Newegg Canada|thegradcafe.com|tnaflix|edx.org|sussex.ac.uk|chatwork.com|receive Groupon communications|speedyessay.co.uk|pyimagesearch.com|unabodaoriginal.es|birdinflight.com|infosdroits.fr|sendy.private.com|falllinemedialtd|bestdroidplayer.com|link.vox.com|rasamalaysia.com|leam.com|tchibo-content.de|tchibo.de|identity-mag.com|warc.com|alawar.es|splcenter.org|ezinemart.com|aikiweb.com|britannica.com|promo.newegg.com|ledauphine.com|estrepublicain.fr|acemlnc.com|Blaze Media LLC|findbridemailing.com|emailsp.com|italotreno|National Skill Development Corporation|link.vox.com|exceljet.net|karinejeff.fr|memecosmetics.fr)/i
 /(mascaro.com|Audley Shoes|ONLINECOSMETICOS|lastijerasmagicas.com|Hairshop.lu|lesciseauxmagiques|force-mobility.fr|Bigben Connected|mydplr.com|Time2Padel|particolari|bleuforet.fr|nifeislife.com|Zephyr Paris|TanExpert|BeauxArts|therealnews|Ginormous Content|Project Camelot|RostrumLegal|ACRON d.o.o.|Papier Tigre|Terres de Café|oxkick.com|actualidadliteratura.com)/i
