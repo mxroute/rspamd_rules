@@ -76,7 +76,7 @@
 /(We recently installed new security features for all the|You will not be able to use your account if this process|We require our customers to check and update|Account will be  automatically deleted)/i
 /attached is the paperwork that needs your signature/i
 /Please see attached for list of pending emails/i
-/We have a new version for your mailbox/i
+/(beautiful website for your organization|We have a new version for your mailbox)/i
 /(blassflustered|Your email account is currently undergoing an annual upgrade|To avoid account shut down Please verify your email)/i
 /(We are an IT company offering|web developer who builds amazing looking|Please find the company forms for change)/i
 /(We recently detected an unusual activity|not the only one here who's not married)/i
