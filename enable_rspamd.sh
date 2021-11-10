@@ -22,7 +22,7 @@ for username in $(ls /usr/local/directadmin/data/users);
                 mkdir -p $DIR
                 UP=$DIR/user_prefs
                   if [ ! -s ${UP} ]; then
-                     echo 'required_score 5.0' > ${UP}
+                     echo 'required_score 25.0' > ${UP}
                      echo 'report_safe 1' >> ${UP}
                      chown $username:$username  ${UP}
                      chmod 644 ${UP}
@@ -31,10 +31,8 @@ for username in $(ls /usr/local/directadmin/data/users);
         chmod 771 $DIR
 done
 
+# Fix that last run
+sed -i 's/required_score 5.0/required_score 25.0/g' /home/*/.spamassassin/user_prefs
+
 # Rewrite Rspamd configs for users
 echo "action=rewrite&value=rspamd" >> /usr/local/directadmin/data/task.queue
-
-# This is less destructive than a clean restart of exim on our servers, believe it or not
-killall -9 exim
-systemctl restart exim
-systemctl restart rspamd
