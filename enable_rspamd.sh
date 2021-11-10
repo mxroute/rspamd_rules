@@ -31,8 +31,5 @@ for username in $(ls /usr/local/directadmin/data/users);
         chmod 771 $DIR
 done
 
-# Fix that last run
-sed -i 's/required_score 5.0/required_score 25.0/g' /home/*/.spamassassin/user_prefs
-
 # Rewrite Rspamd configs for users
 echo "action=rewrite&value=rspamd" >> /usr/local/directadmin/data/task.queue
