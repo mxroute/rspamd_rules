@@ -56,7 +56,7 @@
 /covoco/i
 /(Dear Business Person|bulkmailmarketer|Mike Sevort|trrr\.life|sevortmike|Jesse Nickles|hucksters\.net|littlebizzy)/i
 /(very suitable for your company sell and capture market|bestfactory|nickel hardware|canvas hardware|zinc alloy nickel plated)/i
-/(SEO-Friendly|Looking for a Web Development Company)/i
+/(Looking for a Web Development Company)/i
 /This is to inform you of a debt to our company/i
 /emailserver-[0-9][a-z][0-9][0-9][0-9]\\.appspot\\.com/i
 /(FaceAPI|hirak\.cc)/i
