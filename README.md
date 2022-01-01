@@ -19,3 +19,5 @@ redis.conf = Defining location of redis server
 /override.d/  
 actions.conf = Default actions  
 metrics.conf = Defining or overriding scores. If we make our own rules we define their scores here. If we find a rule needs to have it's score increased or decreased, we re-define it here.
+
+These rspamd rules have no license because we do not consider it to in any way be intellectual property. Everything in this project is publicly available to anyone, it is merely lists of domains and phrases, none of which we can claim any ownership of.
