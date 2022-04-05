@@ -33,3 +33,4 @@
 /\.digital$/i
 /\.work$/i
 /\.bar$/i
+/\.click$/i
