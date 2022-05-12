@@ -2,9 +2,6 @@
 
 # Enable rspamd for all accounts
 
-# All users need to block at least SOME mail on a shared server
-for i in $(find /etc/virtual -name filter.conf); do sed -i 's/high_score_block=no/high_score_block=yes/g' $i; done
-
 # If they have no filters configured, give them a baseline
 for i in $(find /etc/virtual -name filter.conf)
         do
