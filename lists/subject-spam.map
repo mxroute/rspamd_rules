@@ -12,7 +12,7 @@
 /(You got notification from|Questions About CCPA Data Access Process)/i
 /VPS Suspended due to TOS/i
 /Article featuring your company/i
-/(Verify your email on|ALERT SERVER UPDATE NOTIFICATION)/i
+/(ALERT SERVER UPDATE NOTIFICATION)/i
 /confirm your subscription/i
 /RE: Your Website/i
 /Your  Account Is On Hold/i
