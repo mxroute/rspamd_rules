@@ -20,7 +20,7 @@
 /(Home Warranty Plans|Free Home Protection|Home Protection Plan|Covered Home Repairs)/i
 /Is your website optimized/i
 /Los AirPods de Apple/i
-/Business proposal/i
+/^Business proposal/i
 /Low Storage Warning/i
 /(new video clip|Private video|private messaging|Accept voice call|Accept voice message|private pics|private albums|saw your profile|has granted you access|would like voice call|access your profile|private album|see her pictures|on your chat box|sex tape|Get in touch with|to share pictures|wants to see your details|Voice talk with|adult pics|Live chat with|private video|New clips with|You last video|New profile picture|for you only|New video release|New videos with|liked your pictures|photos is granted|your latest album|get in direct access)/i
 /(hook-up page|to find dates|hook up source|Locate your lady|for hookup|hometown matching source|online dating site|hook up site|turn their back on you|intended for dating|unmarried girls|available women|absolutely happy|seek out women|single singles|redecorate your own|learn you far better|a real lady|single adult females|come across love|single women|essential partnership|absolutely joyful|hook-up source|what most women|locate love|begin our acquaintance|seriously appreciate loyalty|interested to discover you|unmarried people|neighborhood matching|partner immediately)/i
