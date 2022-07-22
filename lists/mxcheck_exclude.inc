@@ -15,3 +15,4 @@ sv001.value-domain.com
 sv001new.value-domain.com
 mail5.akc.org
 mail.eroc.twai.gov
+kahaku.revn.jp
