@@ -1,5 +1,8 @@
 # rspamd_rules
 
+UPDATE August 01 2022:
+Our deployment of Rspamd has caused too much user confusion, and we are finally reverting it back to SpamAssassin. This repo will likely remain unaltered moving forward.
+
 When making edits to lists (maps), please follow the current syntax used, and avoid additional regex. The current method of capturing strings for each map is being taken and converted to SpamAssassin rules for our older servers automatically. This relies on continued consistency, for now. Adding new maps, however, may be appropriate if regex or more complex strings are needed.
 
 /lists/  
